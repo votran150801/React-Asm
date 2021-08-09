@@ -1,0 +1,111 @@
+{
+  "products": [
+    {
+      "id": 3,
+      "name": "áo thun đẹp",
+      "price": "400000",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "1",
+      "status": "true",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470005.jpg?alt=media&token=77598684-b752-429a-935c-3db3ae83958f"
+    },
+    {
+      "id": 4,
+      "name": "áo thun 4 chiều ",
+      "price": "700000",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "2",
+      "status": "true",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470007%20(1).jpg?alt=media&token=27f62b74-ed3a-46fe-8f1f-99c8e3b37484"
+    },
+    {
+      "id": "ck7juuxtx",
+      "name": "sadsa",
+      "price": "7000",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "4",
+      "status": "true",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470003.jpg?alt=media&token=c69798e6-d95d-494f-9688-1fc9119154be"
+    },
+    {
+      "id": "0uj0funzt",
+      "name": "ssssssss",
+      "price": "222255",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "1",
+      "status": "true",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470004.jpg?alt=media&token=4261b74d-2e8f-4794-99ba-524862a7a6f1"
+    },
+    {
+      "id": "1zn3gh4h1",
+      "name": "ádasda",
+      "price": "7000",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "1",
+      "status": "false",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470001%20(1).jpg?alt=media&token=f83dd44a-fd02-4948-9639-8707d53ead4e"
+    },
+    {
+      "id": "7tpwpeyee",
+      "name": "sa",
+      "price": "7000",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "2",
+      "status": "true",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470006.jpg?alt=media&token=9c52142b-d80c-43dc-b770-23848e5de5ed"
+    },
+    {
+      "id": "8lgai54fd",
+      "name": "sdasd",
+      "price": "7000",
+      "desc": "When an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic remaining essentially unchanged.",
+      "cate_id": "3",
+      "status": "true",
+      "image": "https://firebasestorage.googleapis.com/v0/b/reactjs-asm-uploadanh.appspot.com/o/images%2Fproduct_125470002%20(1).jpg?alt=media&token=670d915d-d83f-49ba-9ec6-d9388efd82be"
+    }
+  ],
+  "categories": [
+    {
+      "name": "T-SHIRTS",
+      "id": 1
+    },
+    {
+      "name": "POLO SHIRTS",
+      "id": 2
+    },
+    {
+      "name": "SHIRTS",
+      "id": 3
+    },
+    {
+      "name": "SWEATERS",
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "email": "votran11@gmail.com",
+      "password": "$2a$10$4.tIkw9Hw6ZWefABLWyf0.zd9qmwYHhmE4Vjgqryr6g6Zmv6ISWCm",
+      "name": "votran",
+      "id": 1
+    },
+    {
+      "email": "uu@gmail.com",
+      "password": "$2a$10$NHZzVu2X6eA45jQhGmqOqeSoRUvTVA5t5rgZKE0tnkD8lS55E9BCG",
+      "name": "uu",
+      "id": 12
+    },
+    {
+      "email": "vovogg@gmail.com",
+      "password": "$2a$10$nIB4OHiV8XfUX1xEBLrw..MWExlE8Zm2R0mDQ69fdkp7B8woiNhZC",
+      "name": "vovogg",
+      "id": 13
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$WiYLSqFQcENUjsBzSAd7M.RR.OSxYbOcJWv7mkzmpGy7md2FdGorC",
+      "name": "admin",
+      "id": 1
+    }
+  ]
+}
